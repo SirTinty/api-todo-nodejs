@@ -30,7 +30,7 @@ Uma API RESTful simples para gerenciamento de tarefas por usuários autenticados
 
 ## 📁 Estrutura de Pastas
 
-src/
+- ├── src/
 - ├── controllers/
 - ├── routes/
 - ├── models/
