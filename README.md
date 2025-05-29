@@ -31,12 +31,12 @@ Uma API RESTful simples para gerenciamento de tarefas por usuários autenticados
 ## 📁 Estrutura de Pastas
 
 src/
-├── controllers/
-├── routes/
-├── models/
-├── middlewares/
-├── services/
-└── utils/
+- ├── controllers/
+- ├── routes/
+- ├── models/
+- ├── middlewares/
+- ├── services/
+- └── utils/
 
 yaml
 Copiar
