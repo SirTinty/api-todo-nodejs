@@ -37,11 +37,7 @@ src/
 - ├── middlewares/
 - ├── services/
 - └── utils/
-
-yaml
-Copiar
-Editar
-
+  
 ---
 
 ## 🧪 Teste a API
